@@ -27,5 +27,5 @@ Hello World Quarkus 어플리케이션을 만드는 방법을 알아보자.
 
 실행방법(2)
 ```shell script
-> java -jar 
+> java -jar build/getting-started-1.0-SNAPSHOT-runner.jar
 ```
